@@ -48,6 +48,9 @@
     align-items: center;
     justify-content: space-between;
     border-radius: 8px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .main__slider_groop{
     max-width: 794px;
